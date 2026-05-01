@@ -17,6 +17,3 @@ for i in range(0,Len):
         print("Nice Work\n")
     else:
         print("Not correct\n")
-
-
-

@@ -1,5 +1,5 @@
 file = open("writeToFile.txt", "w") 
-file.write("You have just written to a text file again.")
+file.write("You have just written to a text file again.\n")
 file.write("More Text")
 file.close
 
